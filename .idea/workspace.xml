@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cd28e39-031e-43f3-84f4-f7e7ee5a5e9a" name="Default Changelist" comment="" />
+    <list default="true" id="9cd28e39-031e-43f3-84f4-f7e7ee5a5e9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jichu/ChickenAndRabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YtRAJeuO9HojvaG8MiEWeOKbBE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,12 +44,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ChickenAndRabbit">
+    <configuration name="ChickenAndRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jichu.ChickenAndRabbit" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jichu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Evaluate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jichu.Evaluate" />
       <module name="Algorithm" />
@@ -52,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChickenAndRabbit" />
         <item itemvalue="Application.Evaluate" />
       </list>
     </recent_temporary>
@@ -78,33 +107,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583759758799</updated>
-      <workItem from="1583759763777" duration="3569000" />
+      <workItem from="1583759763777" duration="4916000" />
+      <workItem from="1583850211752" duration="904000" />
+      <workItem from="1583907118762" duration="95000" />
+      <workItem from="1588825065081" duration="595000" />
     </task>
+    <task id="LOCAL-00001" summary="java写算法啦">
+      <created>1583763830238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583763830239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java写算法啦" />
+    <option name="LAST_COMMIT_MESSAGE" value="java写算法啦" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1868" height="280" key="GridCell.Tab.0.bottom" timestamp="1583763753872">
+    <state x="787" y="426" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588825072909">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1868" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583763753872" />
-    <state width="1868" height="280" key="GridCell.Tab.0.center" timestamp="1583763753872">
+    <state x="787" y="426" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588825072909" />
+    <state x="453" y="117" key="CommitChangelistDialog2" timestamp="1583763830135">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1868" height="280" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583763753872" />
-    <state width="1868" height="280" key="GridCell.Tab.0.left" timestamp="1583763753872">
+    <state x="453" y="117" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1583763830135" />
+    <state width="1868" height="280" key="GridCell.Tab.0.bottom" timestamp="1583765647205">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1868" height="280" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583763753872" />
-    <state width="1868" height="280" key="GridCell.Tab.0.right" timestamp="1583763753872">
+    <state width="1868" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583765647205" />
+    <state width="1868" height="280" key="GridCell.Tab.0.center" timestamp="1583765647205">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1868" height="280" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583763753872" />
-    <state x="599" y="239" width="719" height="678" key="search.everywhere.popup" timestamp="1583763687744">
+    <state width="1868" height="280" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583765647205" />
+    <state width="1868" height="280" key="GridCell.Tab.0.left" timestamp="1583765647205">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="599" y="239" width="719" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583763687744" />
+    <state width="1868" height="280" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583765647205" />
+    <state width="1868" height="280" key="GridCell.Tab.0.right" timestamp="1583765647205">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="280" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583765647205" />
+    <state x="564" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1583907120486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="564" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583907120486" />
+    <state x="15" y="92" key="new project wizard" timestamp="1583907209722">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="15" y="92" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1583907209722" />
+    <state x="599" y="239" width="719" height="678" key="search.everywhere.popup" timestamp="1588825691563">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="599" y="239" width="719" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588825691563" />
   </component>
 </project>
